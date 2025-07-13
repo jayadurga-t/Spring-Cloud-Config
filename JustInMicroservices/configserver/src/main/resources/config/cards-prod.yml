@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to JustIn Bank cards related prod APIs "
+  contactDetails:
+    name: "Maruthi - Product Owner"
+    email: "maruthi@justin.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721

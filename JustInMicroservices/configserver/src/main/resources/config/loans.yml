@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Justin Bank loans related local APIs "
+  contactDetails:
+    name: "charan - Developer"
+    email: "charan@justin.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

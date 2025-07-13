@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to JustIn Bank accounts related QA APIs "
+  contactDetails:
+    name: "Shasta - QA Lead"
+    email: "shasta@justin.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
